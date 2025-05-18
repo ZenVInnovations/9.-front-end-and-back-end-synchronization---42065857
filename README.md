@@ -39,7 +39,7 @@
 ---
 
 ## Team Credits
-Ananya A H
-Vigneshwaran
-Poornachandra S T
-K Shabarish
+- Ananya A H
+- Vigneshwaran
+- Poornachandra S T
+- K Shabarish
