@@ -32,7 +32,6 @@
 | Frontend  | React, Vite, Axios, CSS Modules       |
 | Backend   | Node.js, Express.js, MongoDB, Mongoose|
 | Auth      | JWT (JSON Web Tokens)                 |
-| Emails    | Nodemailer                            |
 | Scheduling| node-cron                             |
 | Hosting   | Render (Frontend & Backend)           |
 
